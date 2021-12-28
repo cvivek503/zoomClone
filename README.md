@@ -1,4 +1,4 @@
-A zoom clone built using NodeJS,Socket.io and peerJS.
+A zoom clone built using NodeJS,EJS,Socket.io and peerJS.
 
 It is a practice project.
 Currently a few minor bugs are there -:
